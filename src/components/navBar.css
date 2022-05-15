@@ -1,0 +1,16 @@
+/* good to put global styling in the app.css or the main css folder */
+*{
+    color:black !important;
+    font-weight: bold !important;
+}
+.navbar{
+   
+    background-color: rgba(0, 0, 255, 0.5);
+    
+
+}
+
+.navbar h1{
+    text-align: center;
+    color: teal;
+}

@@ -1,0 +1,29 @@
+.about{
+    /* border:3px solid black; */
+    height:8rem;
+    display: flex;
+    
+}
+
+.about h1{
+    flex:3;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left:5px;
+}
+.about .contact{
+    display:block;
+    margin-right:5px;
+    
+    
+   
+    
+}
+
+.about button{
+    width:5rem;
+    height:4rem;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-right:5px;
+}

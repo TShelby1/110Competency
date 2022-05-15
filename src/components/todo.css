@@ -1,0 +1,22 @@
+.todo{
+    background-color: beige;
+    padding: 100px 30px;
+}
+
+.todo .form{
+    background-color: grey;
+    display: inline-block;
+    padding:20px;
+    width: auto;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.todo input{
+    width:250px;    
+
+}
+
+
+

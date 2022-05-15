@@ -1,0 +1,54 @@
+.admin{
+    text-transform: capitalize;
+    display:flex;
+    height:100vh;
+    width:150vh;
+    margin-left:auto;
+    margin-right:auto;
+    border:4px solid black;
+    background-color: rgb(222, 222, 131);
+}
+.admin h2{
+    justify-content: center;
+    text-align: center;
+    border-bottom: 1px solid black;
+    
+}
+.two{
+    border:2px solid red;
+}
+
+.admin .coupon{
+    flex:1;
+    flex-direction: column;
+    border-right:1px solid black;
+    
+}
+
+.form{
+    display: flex;
+    flex-direction: column;
+    width: 30rem;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2rem;
+    background-color: gray;
+    text-align: right;
+    padding-right: 6rem;
+    
+}
+
+.form input{
+    margin-bottom: 1rem;
+}
+.coup-catch{
+    margin-left: 2rem;
+}
+.admin .admin-prod{
+    flex:1;
+    border-left:1px solid black;
+}
+
+.admin-page .alert{
+    margin:15px 250px;
+}

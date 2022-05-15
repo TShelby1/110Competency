@@ -1,0 +1,19 @@
+/* good to put global styling in the app.css or the main css folder */
+.footer{
+    background-color: rgba(0, 0, 255, 0.5);
+    text-align: center ;
+
+}
+
+.footer h2{
+    
+    color: salmon;
+    margin: 5px 0;
+    
+}
+
+.footer h5{
+    text-align: center;
+    color: salmon;
+    margin: 5px 0;
+}

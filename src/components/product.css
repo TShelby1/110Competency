@@ -1,0 +1,27 @@
+.product{
+    border:5px solid green;
+   text-align: center;
+   border-radius:10px 100px / 120px;;
+
+}
+
+.product h3{
+    text-align:center;
+    color: black;
+}
+.product h1{
+    text-align:left;
+    color: black;
+}
+
+.product .image{
+    width:20rem;
+    height:20rem;
+    
+}
+.product img{
+    width:20rem;
+    height:20rem;
+    border-radius: 10px 100px / 120px;
+    
+}
